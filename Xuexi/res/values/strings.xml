@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Xuexi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+	<string name ="title_activity_third">ThirdActivity</string>
+	<string name="browser">浏览器</string>
+	<string name="telephone">打电话</string>
+	<string name="second">界面二</string>
+	<string name="third">界面三</string>
+	<string name="logtoast">日志</string>
+</resources>
